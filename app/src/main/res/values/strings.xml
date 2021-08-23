@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="lbl_business_card">Business Card</string>
+    <string name="new_card">New Card</string>
+    <string name="box_name">Name</string>
+    <string name="label_phone">Phone Number</string>
+    <string name="label_email">Email Address</string>
+    <string name="label_company">Company name</string>
+    <string name="label_color">Color</string>
+    <string name="lbl_btn_confirm">Confirm</string>
+    <string name="label_show_success">Cartão Cadastrado</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="aux_fechar">Fechar</string>
+    <string name="botaoadd">BOTAOADD</string>
+
+</resources>
